@@ -1,5 +1,5 @@
-# Proyecto InfoUADY
-
+# Proyecto AbarrotesTizimin
+Proyecto de la Asignatura Diseño de Software. Sistema de Ventas para Tienda de Abarrotes.
 
 # Equipo
 
