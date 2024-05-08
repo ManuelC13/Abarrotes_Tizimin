@@ -14,4 +14,4 @@ Este repositorio aloja la documentación de un proyecto escolar eleborado por es
 * [Requerimientos funcionales](Documentación/Primera_Entrega/Requerimientos_funcionales.pdf)
 * [Diagrama de casos de uso](Documentación/Primera_Entrega/Diagrama_de_casos_de_uso.png)
 * [Diagrama de clases](Documentación/Primera_Entrega/Diagrama_de_Clases.png)
-* [Diagrama de secuencia](Documentación/Primera_Entrega/Diagrama_de_Secuencia.png)
+* [Diagrama de secuencia](Documentación/Primera_Entrega/Diagrama_de_secuencia.png)
