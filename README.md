@@ -18,9 +18,9 @@ Este repositorio aloja la documentación de un proyecto escolar eleborado por es
 
 # Índice Segunda Entrega (Final)
 * [Diagrama de casos de uso](Documentación/Segunda_Entrega/DiagramaCasosDeUso.png)
-* [Diagrama de clases](Documentación/Segunda_Entrega/DiagramaCasosDeClases.png)
+* [Diagrama de clases](Documentación/Segunda_Entrega/DiagramaDeClases.png)
 * [Diagrama de secuencia](Documentación/Segunda_Entrega/DiagramaDeSecuencia.png)
 * [Diagrama de estado](Documentación/Segunda_Entrega/DiagramaDeEstados.png)
 * [Diagrama de colaboracion](Documentación/Segunda_Entrega/DiagramaDeColaboración.png)
 * [Diagrama de actividad](Documentación/Segunda_Entrega/DiagramaDeActividad.png)
-* [Código del programa](Documentación/Primera_Entrega/Diagrama_de_secuencia.png)
+* [Código del programa](Documentación/Segunda_Entrega/Código_Del_Programa)
