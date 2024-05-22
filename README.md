@@ -15,3 +15,12 @@ Este repositorio aloja la documentación de un proyecto escolar eleborado por es
 * [Diagrama de casos de uso](Documentación/Primera_Entrega/Diagrama_de_casos_de_uso.png)
 * [Diagrama de clases](Documentación/Primera_Entrega/Diagrama_de_Clases.png)
 * [Diagrama de secuencia](Documentación/Primera_Entrega/Diagrama_de_secuencia.png)
+
+# Índice Segunda Entrega (Final)
+* [Diagrama de casos de uso](Documentación/Primera_Entrega/Diagrama_de_casos_de_uso.png)
+* [Diagrama de clases](Documentación/Primera_Entrega/Diagrama_de_Clases.png)
+* [Diagrama de secuencia](Documentación/Primera_Entrega/Diagrama_de_secuencia.png)
+* [Diagrama de estado](Documentación/Primera_Entrega/Diagrama_de_casos_de_uso.png)
+* [Diagrama de colaboracion](Documentación/Primera_Entrega/Diagrama_de_Clases.png)
+* [Diagrama de actividad](Documentación/Primera_Entrega/Diagrama_de_secuencia.png)
+* [Código del programa](Documentación/Primera_Entrega/Diagrama_de_secuencia.png)
