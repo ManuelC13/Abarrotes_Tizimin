@@ -26,3 +26,4 @@ Este repositorio aloja la documentación de un proyecto escolar eleborado por es
 * [Diagrama de colaboracion](Documentación/Segunda_Entrega/DiagramaDeColaboración.png)
 * [Diagrama de actividad](Documentación/Segunda_Entrega/DiagramaDeActividad.png)
 * [Código del programa](Documentación/Segunda_Entrega/Código_Del_Programa)
+* [Documento de la entrega final](Documentación/Segunda_Entrega/EntregaProyectoFinal_(Manuel Cupul_-_Raúl_Batun).docx)
