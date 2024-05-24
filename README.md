@@ -27,4 +27,4 @@ Este repositorio aloja la documentación de un proyecto escolar eleborado por es
 * [Diagrama de actividad](Documentación/Segunda_Entrega/DiagramaDeActividad.png)
 * [Código del programa](Documentación/Segunda_Entrega/Código_Del_Programa)
 * [Documento de la entrega final](Documentación/Segunda_Entrega/EntregaProyectoFinal.docx)
-* [Documento de la entrega final](Documentación/Segunda_Entrega/EntregaProyectoFinal.docx)
+* [Video de ejemplo del funcionamiento](Documentación/Segunda_Entrega/EjemploFuncionamiento.mp4)
