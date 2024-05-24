@@ -1,6 +1,8 @@
 # Proyecto AbarrotesTizimin
 Proyecto de la Asignatura Diseño de Software. Sistema de Ventas para Tienda de Abarrotes.
 
+![image](https://github.com/ManuelC13/Abarrotes_Tizimin/assets/114542854/35a6fe35-c7de-4e7b-a9e3-a613458b648f)
+
 # Equipo
 
 * [Manuel Enrique Cupul May.](https://github.com/ManuelC13)
